@@ -8,5 +8,3 @@ for row in range(rows):
         else:
             print(' ',end=' ')
     print('')
-    print("hello")
-    
